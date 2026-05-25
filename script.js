@@ -1,7 +1,7 @@
 const modalidades = ["Ginástica", "Judô", "Surfe", "Vôlei"];
 
 
-const escolha = 4;
+const escolha = 3;
 
 document.querySelector('body').style.backgroundImage = "url('img/"+modalidades[escolha]+".png')";
 document.querySelector('title').textContent = "Missão Olímpica | "+modalidades[escolha];
