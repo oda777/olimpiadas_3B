@@ -1,5 +1,5 @@
 const perguntas = [[
-    //Ginástica
+   
     {
         enunciado: "Você está prestes a iniciar sua rotina no solo. Qual é sua primeira acrobacia?",
         alternativas: [
